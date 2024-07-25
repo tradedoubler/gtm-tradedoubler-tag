@@ -15,5 +15,5 @@
 homepage: "https://www.tradedoubler.com"
 documentation: "https://github.com/tradedoubler/gtm-tradedoubler-tag/blob/main/README.md"
 versions:
-  - sha: e606760bd64324fa2eb841b4e40150f6f3a40cb7
+  - sha: 0800d8cbbd1f72c261cb2dc93c5a602085c1fd13
     changeNotes: Initial Version
